@@ -4,7 +4,7 @@ Welcome to this interactive course on AI API integrations! This course is design
 
 ## Modules
 
-1. [Building Custom Models with OpenAI GPT API](./modules/01_gpt_api/README.md)
+1. [Building Custom Models with OpenAI GPT API](../modules/modules/01_gpt_api/README.md)
 2. (More modules to come)
 
 ## Getting Started
