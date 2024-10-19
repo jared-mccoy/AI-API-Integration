@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Module 1: Building Custom Models with OpenAI GPT API
 
 Welcome to the first module of our AI API Integrations course! In this module, you'll learn how to leverage the OpenAI GPT API to build custom language models.
