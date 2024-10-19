@@ -4,7 +4,7 @@ Welcome to this interactive course on AI API integrations! This course is design
 
 ## Modules
 
-1. [Building Custom Models with OpenAI GPT API](../modules/modules/01_gpt_api/README.md)
+1. [Building Custom Models with OpenAI GPT API](./01_gpt_api/README.md)
 2. (More modules to come)
 
 ## Getting Started
@@ -23,7 +23,7 @@ For a hands-on experience, you have two options:
 
 Click the "Open in Colab" badge at the beginning of each notebook to launch an interactive environment.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jared-mccoy/AI-API-Integration-Course/blob/main/modules/01_gpt_api/01_gpt_api_intro.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jared-mccoy/AI-API-Integration-Course/blob/main/01_gpt_api/01_gpt_api_intro.ipynb)
 
 **API Key Security in Colab:**
 - You'll be prompted to enter your API key manually.
