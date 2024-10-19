@@ -4,10 +4,9 @@ Welcome to the first module of our AI API Integrations course! In this module, y
 
 ## Contents
 
-1. [GPT API Overview](./00_gpt-api-overview.md)
-2. [GPT API Introduction](./01_gpt-api-intro.ipynb)
-3. [Basic Prompting Techniques](./02_basic-prompting-techniques.ipynb)
-4. [Intermediate Prompting Techniques](./03_intermediate-prompting-techniques.ipynb)
+1. [GPT API Introduction](./01_gpt-api-intro.ipynb)
+2. [Basic Prompting Techniques](./02_basic-prompting-techniques.ipynb)
+3. [Intermediate Prompting Techniques](./03_intermediate-prompting-techniques.ipynb)
 
 ## Learning Objectives
 
