@@ -1,3 +1,4 @@
+<img src="AI-API-Integration.webp" alt="AI API Integration" style="max-width: 100%; height: auto;">
 A Hands-on Guide to Real-Time AI API Integrations
 
 Welcome to this interactive course on AI API integrations! This course is designed to provide you with hands-on experience working with cutting-edge AI services through their APIs.
