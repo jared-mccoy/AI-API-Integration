@@ -23,19 +23,19 @@ By the end of this module, you will be able to:
 ## Lessons
 
 1. **GPT API Introduction**
-   - [Notebook](./01_gpt-api-intro.ipynb)
-   - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jared-mccoy/AI-API-Integration-Course/blob/main/modules/01_gpt_api/01_gpt-api-intro.ipynb)
-   - [![Open In Jupyter](https://img.shields.io/badge/Open%20in-Jupyter-orange)](https://mybinder.org/v2/gh/jared-mccoy/AI-API-Integration-Course/main?filepath=modules/01_gpt_api/01_gpt-api-intro.ipynb)
+   - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jared-mccoy/AI-API-Integration/blob/main/01_gpt_api/01_gpt-api-intro.ipynb)
+   - [![Open In Jupyter](https://img.shields.io/badge/Open%20in-Jupyter-orange)](https://mybinder.org/v2/gh/jared-mccoy/AI-API-Integration/main?filepath=01_gpt_api/01_gpt-api-intro.ipynb)
+   - [Download Notebook](./01_gpt-api-intro.ipynb)
 
 2. **Basic Prompting Techniques**
-   - [Notebook](./02_basic-prompting-techniques.ipynb)
-   - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jared-mccoy/AI-API-Integration-Course/blob/main/modules/01_gpt_api/02_basic-prompting-techniques.ipynb)
-   - [![Open In Jupyter](https://img.shields.io/badge/Open%20in-Jupyter-orange)](https://mybinder.org/v2/gh/jared-mccoy/AI-API-Integration-Course/main?filepath=modules/01_gpt_api/02_basic-prompting-techniques.ipynb)
+   - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jared-mccoy/AI-API-Integration/blob/main/01_gpt_api/02_basic-prompting-techniques.ipynb)
+   - [![Open In Jupyter](https://img.shields.io/badge/Open%20in-Jupyter-orange)](https://mybinder.org/v2/gh/jared-mccoy/AI-API-Integration/main?filepath=01_gpt_api/02_basic-prompting-techniques.ipynb)
+   - [DownloadNotebook](./02_basic-prompting-techniques.ipynb)
 
 3. **Intermediate Prompting Techniques**
-   - [Notebook](./03_intermediate-prompting-techniques.ipynb)
-   - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jared-mccoy/AI-API-Integration-Course/blob/main/modules/01_gpt_api/03_intermediate-prompting-techniques.ipynb)
-   - [![Open In Jupyter](https://img.shields.io/badge/Open%20in-Jupyter-orange)](https://mybinder.org/v2/gh/jared-mccoy/AI-API-Integration-Course/main?filepath=modules/01_gpt_api/03_intermediate-prompting-techniques.ipynb)
+   - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jared-mccoy/AI-API-Integration/blob/main/01_gpt_api/03_intermediate-prompting-techniques.ipynb)
+   - [![Open In Jupyter](https://img.shields.io/badge/Open%20in-Jupyter-orange)](https://mybinder.org/v2/gh/jared-mccoy/AI-API-Integration/main?filepath=01_gpt_api/03_intermediate-prompting-techniques.ipynb)
+   - [Download Notebook](./03_intermediate-prompting-techniques.ipynb)
 
 Remember to refer to the main README for instructions on setting up your environment and managing API keys securely.
 
