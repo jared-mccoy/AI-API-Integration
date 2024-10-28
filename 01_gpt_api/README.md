@@ -29,7 +29,7 @@ By the end of this module, you will be able to:
 2. **Basic Prompting Techniques**
    - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jared-mccoy/AI-API-Integration/blob/main/01_gpt_api/02_basic-prompting-techniques.ipynb)
    - [![Open In Jupyter](https://img.shields.io/badge/Open%20in-Jupyter-orange)](https://mybinder.org/v2/gh/jared-mccoy/AI-API-Integration/main?filepath=01_gpt_api/02_basic-prompting-techniques.ipynb)
-   - [DownloadNotebook](./02_basic-prompting-techniques.ipynb)
+   - [Download Notebook](./02_basic-prompting-techniques.ipynb)
 
 3. **Intermediate Prompting Techniques**
    - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jared-mccoy/AI-API-Integration/blob/main/01_gpt_api/03_intermediate-prompting-techniques.ipynb)
