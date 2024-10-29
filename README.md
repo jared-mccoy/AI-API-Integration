@@ -24,7 +24,7 @@ For a hands-on experience, you have two options:
 
 Click the "Open in Colab" badge at the beginning of each notebook to launch an interactive environment.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jared-mccoy/AI-API-Integration/blob/main/01_gpt_api/01_gpt_api_intro.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jared-mccoy/AI-API-Integration/blob/main/01_gpt_api/01_gpt-api-intro.ipynb)
 
 **API Key Security in Colab:**
 - You'll be prompted to enter your API key manually.
